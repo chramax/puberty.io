@@ -1,7 +1,7 @@
 # Jayson's Term 1 Digital Literacy Project
 
 **Contents**
-* [Source Code](https://github.com/iamjaysondt/jayson-dl-project-t1/tree/source-code)
+* [Source Code and Assets](https://github.com/iamjaysondt/jayson-dl-project-t1/tree/source-code)
 * [Downloading and running the program](https://github.com/iamjaysondt/jayson-dl-project-t1#downloading-and-running-the-program)
 * [Copyright Notice](https://github.com/iamjaysondt/jayson-dl-project-t1#2-copyright-notice)
 #
