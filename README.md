@@ -15,7 +15,7 @@
 3. Click on download
 4. The file should now be saved to Your downloads folder or wherever You decided to save the file
 
-### 1.1 Opening the file in a scratch editor**
+### 1.1 Opening the file in a scratch editor
 
 ![Opening the .sb3 file in a scratch editor](https://github.com/iamjaysondt/jayson-dl-project-t1/blob/main/Open%20file.gif)
 
