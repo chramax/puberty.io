@@ -3,7 +3,7 @@
 **Contents**
 * [Source Code](https://github.com/iamjaysondt/jayson-dl-project-t1/tree/source-code)
 * [Downloading and running the program](https://github.com/iamjaysondt/jayson-dl-project-t1#downloading-and-running-the-program)
-* [Copyright Notice](https://github.com/iamjaysondt/jayson-dl-project-t1#copyright-notice)
+* [Copyright Notice](https://github.com/iamjaysondt/jayson-dl-project-t1#2-copyright-notice)
 #
 ### Downloading and running the program
 ### 1. Download the file from the GitHub repo
