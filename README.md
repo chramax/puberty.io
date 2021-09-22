@@ -1,4 +1,5 @@
-# Jayson's Term 1 Digital Literacy Project
+# Puberty.io
+### A digital literacy project by jayson
 
 **Contents**
 * [Source Code and Assets](https://github.com/iamjaysondt/jayson-dl-project-t1/tree/source-code)
