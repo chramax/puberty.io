@@ -3,7 +3,7 @@
 **Contents**
 * [Source Code](https://github.com/iamjaysondt/jayson-dl-project-t1/tree/source-code)
 * [Downloading and running the program](https://github.com/iamjaysondt/jayson-dl-project-t1#downloading-and-running-the-program)
-* [License](https://github.com/iamjaysondt/jayson-dl-project-t1#License)
+* [Copyright Notice](https://github.com/iamjaysondt/jayson-dl-project-t1#copyright-notice)
 #
 ### Downloading and running the program
 ### 1. Download the file from the GitHub repo
@@ -24,3 +24,7 @@
 4. Locate the .sb3 file that You have downloaded earlier
 5. Click the file and click open
 6. Click the green flag to run the program
+
+## 2. Copyright notice
+
+This project uses the [MIT License](https://github.com/iamjaysondt/jayson-dl-project-t1/blob/main/LICENSE.md). Which means that all of the code here is **Open Source** You are free to recreate this project. But, You only can redistribute Your version in this github repo (Open a Pull request if You want to contribute)
