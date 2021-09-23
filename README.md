@@ -2,10 +2,10 @@
 ### A digital literacy project by jayson
 
 **Contents**
-* [Source Code and Assets](https://github.com/iamjaysondt/jayson-dl-project-t1/tree/source-code)
-* [Downloading and running the program](https://github.com/iamjaysondt/jayson-dl-project-t1#downloading-and-running-the-program)
-* [Copyright Notice](https://github.com/iamjaysondt/jayson-dl-project-t1#2-copyright-notice)
-* [Copyright Notice](https://github.com/iamjaysondt/jayson-dl-project-t1#3-credits)
+* [Source Code and Assets](https://github.com/iamjaysondt/puberty.io/tree/source-code)
+* [Downloading and running the program](https://github.com/iamjaysondt/puberty.io#downloading-and-running-the-program)
+* [Copyright Notice](https://github.com/iamjaysondt/puberty.io#2-copyright-notice)
+* [Credits](https://github.com/iamjaysondt/puberty.io#3-credits)
 #
 ### Downloading and running the program
 ### 1. Download the file from the GitHub repo
