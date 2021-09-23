@@ -5,6 +5,7 @@
 * [Source Code and Assets](https://github.com/iamjaysondt/jayson-dl-project-t1/tree/source-code)
 * [Downloading and running the program](https://github.com/iamjaysondt/jayson-dl-project-t1#downloading-and-running-the-program)
 * [Copyright Notice](https://github.com/iamjaysondt/jayson-dl-project-t1#2-copyright-notice)
+* [Copyright Notice](https://github.com/iamjaysondt/jayson-dl-project-t1#3-credits)
 #
 ### Downloading and running the program
 ### 1. Download the file from the GitHub repo
@@ -29,3 +30,7 @@
 ## 2. Copyright notice
 
 This project uses the [MIT License](https://github.com/iamjaysondt/jayson-dl-project-t1/blob/main/LICENSE.md). Which means that all of the code here is **Open Source** You are free to recreate this project. But, You only can redistribute Your version in this github repo (Open a Pull request if You want to contribute)
+
+## 3. Credits
+
+Big thanks to [@Sheep Tester](https://github.com/SheepTester) For provding the [Project HTMLifier Utility](https://sheeptester.github.io/htmlifier/)
