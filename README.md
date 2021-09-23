@@ -3,12 +3,17 @@
 
 **Contents**
 * [Source Code and Assets](https://github.com/iamjaysondt/puberty.io/tree/source-code)
-* [Downloading and running the program](https://github.com/iamjaysondt/puberty.io#downloading-and-running-the-program)
+* [Running the program](https://github.com/iamjaysondt/puberty.io#downloading-and-running-the-program)
 * [Copyright Notice](https://github.com/iamjaysondt/puberty.io#2-copyright-notice)
 * [Credits](https://github.com/iamjaysondt/puberty.io#3-credits)
+* [Programs and tools used]()
 #
 ### Downloading and running the program
-### 1. Download the file from the GitHub repo
+### 1. Using the web verison (Recommended for most users)
+
+1. Open the [web version of puberty.io](https://iamjaysondt.github.io/puberty.io/) (Click the hyperlink text beside me)
+
+### 1.1 Download the file from the GitHub repo (If You want to look at the insides of the program)
 
 ![Downloading the file from the GitHub repo](https://github.com/iamjaysondt/jayson-dl-project-t1/blob/main/Download%20file.gif)
 
@@ -17,7 +22,7 @@
 3. Click on download
 4. The file should now be saved to Your downloads folder or wherever You decided to save the file
 
-### 1.1 Opening the file in a scratch editor
+### 1.2 Opening the file in a scratch editor
 
 ![Opening the .sb3 file in a scratch editor](https://github.com/iamjaysondt/jayson-dl-project-t1/blob/main/Open%20file.gif)
 
@@ -34,3 +39,18 @@ This project uses the [MIT License](https://github.com/iamjaysondt/jayson-dl-pro
 ## 3. Credits
 
 Big thanks to [@Sheep Tester](https://github.com/SheepTester) For provding the [Project HTMLifier Utility](https://sheeptester.github.io/htmlifier/)
+
+## 4. Programs and tools used (If You are feeling curious today)
+### Programming languages used
+1. Scratch
+2. HTML (Generated using [Sheep Tester's HTMLifier Utility](https://sheeptester.github.io/htmlifier/))
+3. CSS (Generated using [Sheep Tester's HTMLifier Utility](https://sheeptester.github.io/htmlifier/))
+4. JavaScript (Generated using [Sheep Tester's HTMLifier Utility](https://sheeptester.github.io/htmlifier/))
+
+### Tools
+1. [Scratch Offline Editor](https://scratch.mit.edu/download)
+2. [Project HTMLifier Utility](https://sheeptester.github.io/htmlifier/)
+3. [Visual Studio Code](https://code.visualstudio.com/)
+4. [Git](https://git-scm.com/)
+5. [GitHub](https://github.com/)
+6. [Command Prompt](https://en.wikipedia.org/wiki/Cmd.exe)
