@@ -17,7 +17,7 @@
 
 ![Downloading the file from the GitHub repo](https://github.com/iamjaysondt/jayson-dl-project-t1/blob/main/Download%20file.gif)
 
-1. Open the [**Source code**](https://github.com/iamjaysondt/jayson-dl-project-t1/tree/source-code) branch
+1. Open the [**Master**](https://github.com/iamjaysondt/puberty.io/tree/master) branch
 2. Click on the sb3 file (Name can change between each release)
 3. Click on download
 4. The file should now be saved to Your downloads folder or wherever You decided to save the file
